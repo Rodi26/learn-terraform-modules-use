@@ -8,7 +8,7 @@ terraform {
       name = "test-modules"
     }
   }
-  */
+
 
   required_providers {
     aws = {
