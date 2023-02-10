@@ -1,6 +1,6 @@
 # Copyright (c) HashiCorp, Inc.
 # SPDX-License-Identifier: MPL-2.0
-
+/*
 terraform {
   cloud {
     organization = "rodolphefontaine-aws"
@@ -8,7 +8,7 @@ terraform {
       name = "test-modules"
     }
   }
-
+*/
 
   required_providers {
     aws = {
